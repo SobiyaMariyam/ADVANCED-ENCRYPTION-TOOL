@@ -143,6 +143,15 @@ This tool provides a secure and user-friendly way to encrypt and decrypt files u
 - Decrypted File: `example.txt`
 
 ---
+![Image](https://github.com/user-attachments/assets/bd4fcc09-dfc5-4288-9d78-c0bd22db59d0)
 
+## Encypted File Data
+![Image](https://github.com/user-attachments/assets/6d78215e-d283-461d-a232-49de5da0cffa)
+
+## Wrong Password Decryption
+![Image](https://github.com/user-attachments/assets/63b9a520-5040-465c-8e42-be30866b1fd0)
+
+## Right Password Decryption
+![Image](https://github.com/user-attachments/assets/2ac0581a-8305-4ae8-86d4-06ddbcbe4449)
 ---
 
