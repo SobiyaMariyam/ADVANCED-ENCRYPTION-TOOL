@@ -102,10 +102,10 @@ This tool provides a secure and user-friendly way to encrypt and decrypt files u
    ```
 
 ### Steps
-1. Save the code to a file, e.g., `aes_encryption_tool.py`.
+1. Save the code to a file, e.g., `ADVANCE ENCRYPTION TOOL.PY`.
 2. Run the script:
    ```bash
-   python aes_encryption_tool.py
+   python ADVANCE ENCRYPTION TOOL.PY
    ```
 3. The GUI will appear. Use the following steps:
    - **Encryption**:
